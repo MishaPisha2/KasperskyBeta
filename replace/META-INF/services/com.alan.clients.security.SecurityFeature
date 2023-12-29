@@ -1,0 +1,6 @@
+com.alan.clients.security.impl.DemoCheck
+com.alan.clients.security.impl.ExplosionCheck
+com.alan.clients.security.impl.LoggerRCECheck
+com.alan.clients.security.impl.ParticleCheck
+com.alan.clients.security.impl.ResourcePackCheck
+com.alan.clients.security.impl.TeleportCheck
