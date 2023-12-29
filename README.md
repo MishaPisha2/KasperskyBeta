@@ -1,4 +1,4 @@
-# KasperskyHook
+# KasperskyBeta
 Hook system calls on Windows by using Kaspersky's hypervisor
 
 
